@@ -1,1 +1,1 @@
-# 0x01. ES6 Promises
+# Es6 promises
